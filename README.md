@@ -1,16 +1,5 @@
-# carrot_market_sample
+# Flutter 당근마켓 클론코딩
 
-A new Flutter project.
+Youtube 개발하는남자님의 당근마켓 홈화면 클론코딩을 보며 만들었습니다.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+주소 : [Youtube 개발하는 남자 당근마켓 클론코딩](https://www.youtube.com/watch?v=aYeBFDnPbkY&list=PLgRxBCVPaZ_3R0h7mCkLJ1RKh7XRvoZdF&index=1&ab_channel=%EA%B0%9C%EB%B0%9C%ED%95%98%EB%8A%94%EB%82%A8%EC%9E%90)
